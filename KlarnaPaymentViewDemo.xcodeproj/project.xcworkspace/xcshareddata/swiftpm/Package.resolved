@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "klarna-mobile-sdk-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/klarna/klarna-mobile-sdk-spm",
+      "state" : {
+        "revision" : "1ace2924db254382e226c1adb7e338d923b7f986",
+        "version" : "2.6.6"
+      }
+    }
+  ],
+  "version" : 2
+}
